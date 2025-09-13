@@ -1,0 +1,59 @@
+Яндекс.Директ:/ru
+МедиаСеть XXL:/ru
+БаннерМаркет:/ru
+
+Крутая реклама:/ru/svrd
+Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik
+Екатеринбург СитиАд:/ru/svrd/ekb
+Урал Диджитал:/ru/svrd,/ru/chelobl
+
+Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl
+Московский билборд:/ru/msk
+МетроМедиа:/ru/msk
+Подмосковные баннеры:/ru/mskobl
+Мытищинская реклама:/ru/mskobl/mytischi
+Химкинские щиты:/ru/mskobl/khimki
+
+Пермская рассылка:/ru/permobl
+Пермские экраны:/ru/permobl
+Челябинский диджитал:/ru/chelobl
+ЧелябГород СМИ:/ru/chelobl
+
+Северная Афиша:/ru/spb
+Невские щиты:/ru/spb
+Северо-Запад Диджитал:/ru/spb,/ru/psk,/ru/novgorod
+ПсковСМИ:/ru/psk
+Великий Новгород Онлайн:/ru/novgorod
+
+Поволжье Маркет:/ru/samara,/ru/kzn,/ru/nn
+Волжские экраны:/ru/samara
+Казанский трафик:/ru/kzn
+Приволжье ТВ:/ru/nn,/ru/kzn
+
+Сибирские баннеры:/ru/nsk
+Новосибирская Почта:/ru/nsk
+Омск Медиа:/ru/omsk
+ТомскРеклама:/ru/tomsk
+Барнаул Борды:/ru/barnaul
+Тюмень Ад:/ru/tyumen
+
+Дальневосточный Охват:/ru/dv
+Владивосток Борды:/ru/dv/vvo
+Хабаровск Билборды:/ru/dv/khv
+
+Юг Медиа:/ru/krd,/ru/rostov
+Краснодар Щиты:/ru/krd
+Сочи КурортАд:/ru/krd/sochi
+Ростов Медиа:/ru/rostov
+
+Калининград Запад:/ru/kaliningrad
+Саратов Медиа:/ru/saratov
+Нижний Рекламный:/ru/nn
+Курск Борды:/ru/kursk
+Белгород Медиа:/ru/belgorod
+Воронеж Реклама:/ru/voronezh
+Тула Афиша:/ru/tula
+
+Кузбасс Реклама:/ru/kuzbass
+Кемерово Борды:/ru/kuzbass/kemerovo
+Новокузнецк Медиа:/ru/kuzbass/novokuznetsk
